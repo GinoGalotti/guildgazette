@@ -1,17 +1,17 @@
 ---
 layout: page
 title: The party
-subtitle: Those so called "friends"
-# Add some way to receive notifications when a new email happens
+subtitle: Those so-called "friends"
+bigimg: /img/party-table.jpg
 ---
 
 Do you really think I had enough time to write about you? C'mon. Give me some rest.
 
-I will try to expand on it some day. Probably even today. Nah. Not today.
+I will try to expand on it someday. Probably even today. Nah. Not today.
 
 ## Kenneth
 
-My little lizard friend. He is always taking care of us, although I am not really sure about the values of his pantheon... he seems to have a very peculiar moral compass. 
+My little lizard friend. He is always taking care of us, although I am not really sure about the values of his pantheon... he seems to have a very particular moral compass. 
 
 ## Fiona
 
@@ -19,15 +19,15 @@ As mysterious as pretentious. There is not much we know about her past, but ther
 
 ## Kuma
 
-Oh this little demon. In a moment, he would jump on your face crushing all your teeth in one punch; while on the next second you can see him running away scared because he got a little scratch. He is as unexpected as mighty!
+Oh, this little demon. In a moment, he would jump on your face crushing all your teeth in one punch; while on the next second you can see him running away scared because he got a little scratch. He is as unexpected as mighty!
 
 ## Bonecrusher
 
-Our big goliath. Powerful, resilient and colossal. He is always hoping to use his intimidation skills. Remember to speak slowly to him, you don't want to cause any missunderstandings. He tries to find any excuse to sleep next to our patreon's spouses.
+Our big Goliath. Powerful, resilient and colossal. He is always hoping to use his intimidation skills. Remember to speak slowly to him, you don't want to cause any misunderstandings. He tries to find any excuse to sleep next to our patron's spouses.
 
 ## Lands
 
-There is not much we know about him. We just know about his dark past, his little flurry glowing fox and his tentacle fetiche. I think he is one of those Japanesse-obssesed dudes. 
+There is not much we know about him. We just know about his dark past, his little flurry glowing fox and his tentacle fetish. I think he is one of those Japanese-obsessed dudes. 
 
 ## The rest
 
