@@ -2,7 +2,7 @@
 layout: page
 title: The world
 subtitle: Those beautiful and instagramable places
-bigimg: /img/deadoralive.jpg
+bigimg: /img/world.jpg
 ---
 (Picture is a placeholder, I don't have one of the real worlds)
 
