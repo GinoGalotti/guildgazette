@@ -7,7 +7,7 @@ tags: I-didnt-die Big-fight
 #Lands - Kuma - Bonecrusher - Kenneth - Fiona
 ---
 
-Our journey escaping from the Spider's web was way more challenging than expected. But nothing that I couldn't handle, even if I also had to take care of the rest! We found **Blank name** (_Note: Matt's character_ ) all curled up cozily in a glowy cacoon... sadly we had to wake him up (before the phase spider killed him)! It proved to be a very interesting addition to the group!
+Our journey escaping from the Spider's web was way more challenging than expected. But nothing that I couldn't handle, even if I also had to take care of the rest! We found **Killawok** all curled up cozily in a glowy cacoon... sadly we had to wake him up (before the phase spider killed him)! It proved to be a very interesting addition to the group!
 
 He seemed to know how to get out of there, so we shared the journey. After a small bump on the road due to a rock that came into life, we found out that our path was completely blocked! All that trembling caused a section of the tunnel to collapse completely... so we had to take a little detour through the ruins of _Sobern Below_, even if we knew some strange cultist decided to set camp there. Some of our friends stayed clearing the path, so we could finally come out.
 

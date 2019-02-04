@@ -10,7 +10,7 @@ A summary of all the relevant places and history we've visited
 
 ## Places
 
-**Blank**: The decadent city ruled (from the shadows) by Spider. It contains a huge arena where ganglords play their games.
+**Gravesomething**: The decadent city ruled (from the shadows) by Spider. It contains a huge arena where ganglords play their games.
 
 ## Factions
 

@@ -29,6 +29,10 @@ Our big Goliath. Powerful, resilient and colossal. He is always hoping to use hi
 
 There is not much we know about him. We just know about his dark past, his little flurry glowing fox and his tentacle fetish. I think he is one of those Japanese-obsessed dudes. 
 
+## Killawok
+
+I don't trust him. But, to be honest, no one does it. So he is already ok with it. Killy has proven to be very useful clearing mountains of rocks and debris. 
+
 ## The rest
 
 Friends come and go. Like the wind. That is life. Do you expect me to remember their names? Fuck no. 
