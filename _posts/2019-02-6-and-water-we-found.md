@@ -3,11 +3,11 @@ layout: post
 title: And Water we found
 bigimg: /img/cave-water.jpg
 shareimg: https://ginogalotti.github.io/bardsjournal/img/cave-water.jpg
-tags: I-didnt-die Big-fight
+tags: I-didnt-die
 #Lands - Kuma - Bonecrusher - Kenneth - Fiona
 ---
 
-Image: Fiona and Lands having a nice bath. I let you decide who is who.
+_Image: Fiona and Lands having a nice bath. I let you decide who is who._
 
 Morning came with the nice surprise of **Fiona** returning to us. Such a lovely eye to open your eyes to. With all that energy, we decided to deal with our most pressing matter first: What to do with this damn Alchemist. 
 
