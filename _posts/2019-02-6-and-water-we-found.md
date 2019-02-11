@@ -6,6 +6,7 @@ shareimg: https://ginogalotti.github.io/bardsjournal/img/cave-water.jpg
 tags: I-didnt-die
 #Lands - Kuma - Bonecrusher - Kenneth - Fiona
 ---
+Active Adventurers: Keeneth - Fiona - Bonecrusher - Lands - Gino
 
 _Image: Fiona and Lands having a nice bath. I let you decide who is who._
 
@@ -19,7 +20,9 @@ Water proved to be such a challenging foe, causing us sweat and blood. When we s
 
 Fohammer (aka Thunder Hammer)
 
-(WIP)
+**Bonecrusher** kept that hammer without giving anyone else much of a chance, but we will have time to make a proper decision later on.
+
+From the end of the cave we started hearing growls on top of the continous trembles, but we decided to explore the fluorescent cave before running towards there. There is something so magical about that... light... that we... can't... say... no...
 
 Quote of the day: 
 > "Stop complaining, Aclhemist. At least **Bony** got cleaned today". 
@@ -27,4 +30,9 @@ Quote of the day:
 
 Remarks:
 
-* Some points (WIP)
+* Moving through water is harder than what it seems
+* *The Alchemist* seems to be a mad scientist, but not that much of an evil person. He just wants a patreon to keep doing his research. Hopefully we can convince him to put that amazing intellect to good use for the world.
+* We learnt that Fiona's stone disease is getting worse, but we have very few leads to follow
+* We got our hand on Fohammer, such a powerful artifact. It seems to have current running through it
+* The fluorescent cave seems to be the place where another cultist used as a laboratory. He seems to have a special crush on death and the undead.
+* Growls and sounds are still coming from the depth of the cave. What is waiting for us there?

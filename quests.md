@@ -18,4 +18,8 @@ Bernard helped us to escape from the Spider, only asking for a safe way out for 
 
 ## The Alchemist's bounty
 
-He got our hand on his little bastard and his deviant experiments. Let's bring him back to justice! Or get him (and his brilliant mind) on our side.
+He got our hand on his little bastard and his deviant experiments. Let's bring him back to justice! Or get him (and his brilliant mind) on our side. Is he the one that we have to bring? Or is it someone else? Maybe we could put the Alchemist to a better use.
+
+## Fiona's sickness
+
+Fiona is affected by a really strange sickness which is making her turn into stone. There is very little we know about it and how to cure it, but we can't let this be her end!
