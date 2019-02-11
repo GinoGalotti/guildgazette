@@ -8,10 +8,6 @@ adventurers: Kenneth, Fiona, Bonecrusher, Lands, Gino
 
 #Lands - Kuma - Bonecrusher - Kenneth - Fiona
 ---
-Active Adventurers: Keeneth - Fiona - Bonecrusher - Lands - Gino
-
-_Image: Fiona and Lands having a nice bath. I let you decide who is who._
-
 Morning came with the nice surprise of **Fiona** returning to us. Such a lovely eye to open your eyes to. With all that energy, we decided to deal with our most pressing matter first: What to do with this damn Alchemist. 
 
 We discovered that the alchemist leader is where the water leads, and something he is dealing with is causing these earth trembles. There was no point on dispatching this poor little soul, so we decide to carry him with us (at least while his madness is working on the right things!).
@@ -38,3 +34,5 @@ Remarks:
 * We got our hand on Fohammer, such a powerful artifact. It seems to have current running through it
 * The fluorescent cave seems to be the place where another cultist used as a laboratory. He seems to have a special crush on death and the undead.
 * Growls and sounds are still coming from the depth of the cave. What is waiting for us there?
+
+_Image: Fiona and Lands having a nice bath. I let you decide who is who._
