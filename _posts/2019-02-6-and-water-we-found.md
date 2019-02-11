@@ -16,7 +16,8 @@ We discovered that the alchemist leader is where the water leads, and something 
 
 Water proved to be such a challenging foe, causing us sweat and blood. When we stopped to catch up our breathe, **Kenneth** felt the aura of a powerful artifact laying nearby, so **Bony** charged towards it! He was barely able to dodge those living rocks falling from the ceiling, but in the end we found the source of all that fuzz:
 
-Fohammer (aka Thunder Hammer)
+![image](https://pbs.twimg.com/media/Cr6aTI7W8AA72um.jpg)
+Foehammer (aka Thunder Hammer)
 
 **Bonecrusher** kept that hammer without giving anyone else much of a chance, but we will have time to make a proper decision later on.
 
@@ -31,7 +32,7 @@ Remarks:
 * Moving through water is harder than what it seems
 * *The Alchemist* seems to be a mad scientist, but not that much of an evil person. He just wants a patreon to keep doing his research. Hopefully we can convince him to put that amazing intellect to good use for the world.
 * We learnt that Fiona's stone disease is getting worse, but we have very few leads to follow
-* We got our hand on Fohammer, such a powerful artifact. It seems to have current running through it
+* We got our hand on Foehammer, such a powerful artifact. It seems to have current running through it
 * The fluorescent cave seems to be the place where another cultist used as a laboratory. He seems to have a special crush on death and the undead.
 * Growls and sounds are still coming from the depth of the cave. What is waiting for us there?
 
