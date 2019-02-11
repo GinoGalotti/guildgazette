@@ -2,7 +2,7 @@
 layout: post
 title: A day in the cave
 bigimg: /img/dark-cave.jpg
-shareimg: https://ginogalotti.github.io/bardsjournal/img/dark-cave.jpg
+share-img: https://ginogalotti.github.io/bardsjournal/img/dark-cave.jpg
 tags: I-didnt-die Big-fight
 #Lands - Kuma - Bonecrusher - Kenneth - Fiona
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: And Water we found
 bigimg: /img/cave-water.jpg
-shareimg: https://ginogalotti.github.io/bardsjournal/img/cave-water.jpg
+share-img: https://ginogalotti.github.io/bardsjournal/img/cave-water.jpg
 tags: I-didnt-die
 adventurers: Kenneth, Fiona, Bonecrusher, Lands, Gino
 
