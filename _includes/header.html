@@ -41,7 +41,7 @@
           <li class="date-post">
           Posted on {{ page.date | date: "%B %-d, %Y" }} 
           </li>
-        % include reading_time.html text=content %} 
+        {% include reading_time.html text=content %} 
         </ul>
       </span>
       {% endif %}
