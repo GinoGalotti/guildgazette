@@ -4,7 +4,7 @@ title: A day in the cave
 bigimg: /img/dark-cave.jpg
 share-img: https://ginogalotti.github.io/bardsjournal/img/dark-cave.jpg
 tags: I-didnt-die Big-fight
-#Lands - Kuma - Bonecrusher - Kenneth - Fiona
+adventurers: Kenneth, Kuma, Bonecrusher, Lands, Gino
 ---
 
 Our journey escaping from the Spider's web was way more challenging than expected. But nothing that I couldn't handle, even if I also had to take care of the rest! We found **Killawok** all curled up cozily in a glowy cacoon... sadly we had to wake him up (before the phase spider killed him)! It proved to be a very interesting addition to the group!
