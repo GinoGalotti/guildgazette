@@ -1,3 +1,4 @@
-{% if page.adventurers.size > 0 or post.adventurers.size > 0 %}
-	<li><span class="adventurers"></span> Adventurers: {{ page.adventurers | join: ', ' }}{{ post.adventurers | join: ', ' }}</li>
+{% assign adventurers = page.adventurers | post.adventurers | players %}
+{% if adventurers.size > 0 or adventurers.size > 0 %}
+	<li><span class="adventurers"></span> Adventurers: {{ adventurers | join: ', ' }}{{ adventurers | join: ', ' }}</li>
 {% endif %}
