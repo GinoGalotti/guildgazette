@@ -25,7 +25,7 @@ use-site-title: true
           Posted on {{ post.date | date: "%B %-d, %Y" }} 
           </li>
         {% include reading-time.html text=post.content %} 
-        {% include adventurers.html players=post.adventurers %}
+        {% include adventurers.html text=post.adventurers %}
         </ul>
       </p>
 
