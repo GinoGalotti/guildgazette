@@ -42,7 +42,7 @@
           Posted on {{ page.date | date: "%B %-d, %Y" }} 
           </li>
         {% include reading-time.html text=content %} 
-        {% include adventurers.html adventurers=players %}
+        {% include adventurers.html players=adventurers %}
         </ul>
       </span>
       {% endif %}
