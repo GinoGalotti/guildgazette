@@ -2,7 +2,7 @@
 layout: post
 title: An overgrown situation
 bigimg: /img/mushroom.jpg
-share-img: https://ginogalotti.github.io/bardsjournal/img/plants-vs-zombies.jpg
+share-img: https://ginogalotti.github.io/bardsjournal/img/plants-vs-zombies.png
 tags: I-didnt-die
 adventurers: Kuma, Bonecrusher, Gino
 ---
