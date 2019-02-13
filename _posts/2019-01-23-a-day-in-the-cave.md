@@ -24,7 +24,6 @@ It was a long exhausting fight, but we managed to tie him up and take him with u
 Quote of the day: 
 > "Let's camp next to the waterfall, so **Bony** can at least have an indirect shower". 
 
-
 Remarks:
 
 * Some of us took turns clearing the blocked path... more help is needed!

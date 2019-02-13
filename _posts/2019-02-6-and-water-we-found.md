@@ -26,7 +26,6 @@ From the end of the cave we started hearing growls on top of the continous tremb
 Quote of the day: 
 > "Stop complaining, Aclhemist. At least **Bony** got cleaned today". 
 
-
 Remarks:
 
 * Moving through water is harder than what it seems
