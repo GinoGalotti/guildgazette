@@ -12,8 +12,6 @@ Unfinished business that we should handle at some point
 
 This little bastard put a bounty on our head. He even sent some minions to dispatch us! As soon as we set foot in a safe place, we should make sure he is not going to cause us any more problem. Maybe we should even save the poor souls of _blank_ (name of the place). You can learn more about him [here](/bardsjournal/people/).
 
-This is an external link, btw [external link](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
-
 ## Tavern
 
 Bernard helped us to escape from the Spider, only asking for a safe way out for his family. Instead, we caused his tavern to be completely destroyed. We should go back and check about his safety, and help him run away.
