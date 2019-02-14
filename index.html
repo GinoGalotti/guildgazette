@@ -19,13 +19,7 @@ use-site-title: true
 	  {% endif %}
     </a>
 
-    <span class="post-meta text-muted small">
-        <ul class="list-inline">
-        {% include date.html text=content %}{{ time }}
-        {% include reading-time.html text=post.content %} 
-        {% include adventurers.html players=post.adventurers %}
-        </ul>
-   </span>
+    {% include meta-index.html}
 
     <div class="post-entry-container">
       {% if post.image %}
