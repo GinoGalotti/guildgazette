@@ -11,6 +11,9 @@ The code I used to cipher my notes is lost, so I could only recover little glimp
 
 **Bernard (Innkeeper)**: He risked his life to help us escape from the Spider. He asked us to clear the path so we could run away as well. 
 
+This is [a link to a post]({{ site.baseurl }}{% post_url 2019-01-23-a-day-in-the-cave %})
+
+
 ## The bad ones
 
 **Spider**: Mob lord controlling the city of _blank_. We owed him, so we ended up as entertainment in his brutal arena. He didn't like when we managed to survive and escape.
