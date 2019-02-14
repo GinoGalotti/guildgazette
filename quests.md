@@ -10,7 +10,9 @@ Unfinished business that we should handle at some point
 
 ## Spider
 
-This little bastard put a bounty on our head. He even sent some minions to dispatch us! As soon as we set foot in a safe place, we should make sure he is not going to cause us any more problem. Maybe we should even save the poor souls of _blank_ (name of the place). You can learn more about him [here](https://ginogalotti.github.io/bardsjournal/people/).
+This little bastard put a bounty on our head. He even sent some minions to dispatch us! As soon as we set foot in a safe place, we should make sure he is not going to cause us any more problem. Maybe we should even save the poor souls of _blank_ (name of the place). You can learn more about him [here](/people/).
+
+This is an external link, btw [external link](https://jamiegoodwin.uk/seo-friendly-nofollow-links-jekyll-github-pages/)
 
 ## Tavern
 
