@@ -36,15 +36,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">
-        <ul class="list-inline">
-          <li class="date-post">
-          Posted on {{ page.date | date: "%B %-d, %Y" }} 
-          </li>
-        {% include reading-time.html text=content %} 
-        {% include adventurers.html players=adventurers %}
-        </ul>
-      </span>
+		  {% include post/meta_index.html %}
       {% endif %}
         </div>
       </div>
