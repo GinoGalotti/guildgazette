@@ -1,9 +1,6 @@
 <span class="post-meta text-muted small">
         <ul class="list-inline">
-          <li class="date-post">
-              <span class="mdl2 mdl2-calendar"></span>
-              {{ page.date | date: "%B %-d, %Y" }} 
-          </li>
+        {% include date.html text=content %}{{ time }}
         {% include reading-time.html text=content %} 
         {% include adventurers.html players=adventurers %}
         </ul>

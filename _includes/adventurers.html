@@ -1,4 +1,6 @@
 {% assign adventurers = {{include.players}} %}
 {% if adventurers.size > 0 or adventurers.size > 0 %}
-	<li><span class="mdl2 mdl2-people"></span> Adventurers: {{ adventurers | join: ', ' }}</li>
+<li><span class="mdl2 mdl2-people"></span> Adventurers: {{ adventurers | join: ', ' }}</li>
+{% else %}
+<li><span class="mdl2 mdl2-people"></span> No people, it seems</li>
 {% endif %}
