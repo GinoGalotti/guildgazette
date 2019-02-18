@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And Water we found
+title: But water we found
 bigimg: /img/cave-water.jpg
 share-img: https://ginogalotti.github.io/bardsjournal/img/cave-water.jpg
 tags: I-didnt-die

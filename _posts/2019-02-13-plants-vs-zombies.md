@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An overgrown situation
+title: Critical overgrowth situation
 bigimg: /img/mushroom.jpg
 share-img: https://ginogalotti.github.io/bardsjournal/img/plants-vs-zombies.png
 tags: I-didnt-die
