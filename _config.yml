@@ -11,6 +11,10 @@
 url: "http://ginogalotti.github.io/bardsjournal"
 baseurl: "/bardsjournal"
 
+github:
+  repo: https://github.com/ginogalotti/bardsjournal
+  feedback: https://github.com/ginogalotti/feedback
+
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
@@ -82,7 +86,7 @@ social-network-links:
   rss: true
 #  email: "gino.galotti@gmail.com"
 #  facebook: daattali
-#  github: ginogalotti
+  github: ginogalotti
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
