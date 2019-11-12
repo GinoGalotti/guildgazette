@@ -7,7 +7,7 @@ bigimg: /img/party-table.jpg
 
 Do you really think I had enough time to write about you? C'mon. Give me some rest.
 
-I will try to expand on it someday. Probably even today. Nah. Not today.
+I will try to expand on it someday. Probably even today. Nah. Not today. For now: we're just a bunch of misfits. 
 
 ## Aleaneah
 
@@ -19,9 +19,7 @@ I still can't believe I crossed paths with this force of nature. She is such a b
 
 ## Aldara
 
-There is something unique about this kid, a little something that tells me she'll be part of something very, very big. And I want to be there with her when it happens. As a renown storyteller, I can spot these details from miles away! And she is exactly what I need to get the notoriety I deserve! I'll be the one singing about Aldara's adventures!
-
-She's also an outsider 
+There is something unique about this kid, a little something that tells me she'll be part of something very, very big. And I want to be there with her when it happens. As a renown storyteller, I can spot these details from miles away! And she is exactly what I need to get the notoriety I deserve! I'll be the one singing about Aldara's adventures! 
 
 ## Bronn
 
