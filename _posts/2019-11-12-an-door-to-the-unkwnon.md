@@ -2,7 +2,7 @@
 layout: post
 title: A door to the unknown
 bigimg: /img/cave-of-wonders.jpg
-share-img: https://ginogalotti.github.io/bardsjournal/img/dark-cave.jpg
+share-img: https://ginogalotti.github.io/bardstale/img/dark-cave.jpg
 tags: I-didnt-die
 adventurers: Kenneth, Kuma, Bonecrusher, Lands, Gino
 ---

@@ -67,9 +67,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/bardsjournal/img/bg/stardust.png"
-footer-img: "/bardsjournal/img/bg/stardust.png"
-page-img: "/bardsjournal/img/bg/ep_naturalwhite.png"
+navbar-img: "/bardstale/img/bg/stardust.png"
+footer-img: "/bardstale/img/bg/stardust.png"
+page-img: "/bardstale/img/bg/ep_naturalwhite.png"
 
 # --- Footer options --- #
 
