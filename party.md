@@ -9,29 +9,24 @@ Do you really think I had enough time to write about you? C'mon. Give me some re
 
 I will try to expand on it someday. Probably even today. Nah. Not today.
 
-## Kenneth
+## Aleaneah
 
-My little lizard friend. He is always taking care of us, although I am not really sure about the values of his pantheon... he seems to have a very particular moral compass. 
+She's as kind as she's naive, but it's incredibly amusing seeing the works of all The Dove indoctrination on a person. But one can feel her warm, big heart; but she doesn't seem very impressed by my attempts of showing her the actual _pleasures_ of life. 
 
-## Fiona
+## Barbara the Hungry
 
-As mysterious as pretentious. There is not much we know about her past, but there are many jobs that only she can get done. So better to not ask questions! She also prepares the best sandwiches. 
+I still can't believe I crossed paths with this force of nature. She is such a big inspiration for my tales, being the perfect embodiment of the hero who's never afraid. Such a marvelous piece of art couldn't be even sculpted by the one and only Angel Mikael; it's mesmerizing looking at all those muscles tensing and dancing... regardless of what she's doing!
 
-## Kuma
+## Aldara
 
-Oh, this little demon. In a moment, he would jump on your face crushing all your teeth in one punch; while on the next second you can see him running away scared because he got a little scratch. He is as unexpected as mighty!
+There is something unique about this kid, a little something that tells me she'll be part of something very, very big. And I want to be there with her when it happens. As a renown storyteller, I can spot these details from miles away! And she is exactly what I need to get the notoriety I deserve! I'll be the one singing about Aldara's adventures!
 
-## Bonecrusher
+She's also an outsider 
 
-Our big Goliath. Powerful, resilient and colossal. He is always hoping to use his intimidation skills. Remember to speak slowly to him, you don't want to cause any misunderstandings. He tries to find any excuse to sleep next to our patron's spouses.
+## Bronn
 
-## Lands
-
-There is not much we know about him. We just know about his dark past, his little flurry glowing fox and his tentacle fetish. I think he is one of those Japanese-obsessed dudes. 
-
-## Killawok
-
-I don't trust him. But, to be honest, no one does it. So he is already ok with it. Killy has proven to be very useful clearing mountains of rocks and debris. 
+Calm. Nurturing. And deadly. Oh, Bronn. I always feel safer when I have him traveling with me. I will write more about him when I have more time.
+Lidia. Oh. I don't understand what he's doing with her. I don't really understand their relationship either. I think he's just missing the attention, so I will have to up my wing-man game...
 
 ## The rest
 

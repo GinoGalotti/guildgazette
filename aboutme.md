@@ -10,6 +10,7 @@ My name is Gino Montoya. You killed my father. These are the reasons why I am ke
 - Words are my thing, and with words I can hurt you.
 - I can pretend to be anything. Even a mariachi.
 - I am the only one of the adventurers who can write.
+- I have a pan flute. And I'm not shy to use it. 
 
 What else do you need?
 

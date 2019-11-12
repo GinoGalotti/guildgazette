@@ -9,18 +9,14 @@ The code I used to cipher my notes is lost, so I could only recover little glimp
 
 ## The nice ones
 
-**Bernard (Innkeeper)**: He risked his life to help us escape from the Spider. He asked us to clear the path so we could run away as well. 
+**Marilyn (Innkeeper)**: She makes mean cinnamon rolls. I can't say no to her.
 
 ## The bad ones
 
-**Spider**: Mob lord controlling the city of _blank_. We owed him, so we ended up as entertainment in his brutal arena. He didn't like when we managed to survive and escape.
-
-**Viktor**: Spider's lieutenant. He was in charge of finding and dispatching us, destroying Bernard's Tavern on the way. He fancies technology and alchemy, using both as tools for murder.
-
-**Alchemist**: This mad gnome was leading the experiments on kobold's blood, finding new elements to enhance his abilities. He is a mastermind on his craft. 
-
-We met him [early on our journey]({{ site.baseurl }}{% post_url 2019-01-23-a-day-in-the-cave %})
+With my charm, there is no one who would hold a grudge to me.
 
 ## The ugly ones
 
-**Bonecrusher**: It just hurts looking at him.
+A list of those who would never have minstrels singing about them
+
+**Lidia**: Just look at her. No heroic tale can be told about one such as her.

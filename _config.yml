@@ -8,17 +8,17 @@
 # baseurl: "/impro"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://ginogalotti.github.io/bardsjournal"
-baseurl: "/bardsjournal"
+url: "http://ginogalotti.github.io/bardstale"
+baseurl: "/bardstale"
 
 github:
-  repo: https://github.com/ginogalotti/bardsjournal
+  repo: https://github.com/ginogalotti/bardstale
   feedback: https://github.com/ginogalotti/feedback
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bard's Journal
+title: Bard's Tales
 
 # Short description of your site
 description: Tales for an adventuruous mind
