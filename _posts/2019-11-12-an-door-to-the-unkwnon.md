@@ -4,29 +4,29 @@ title: A door into the unknown
 bigimg: /img/cave-of-wonders.jpg
 share-img: https://ginogalotti.github.io/bardstale/img/cave-of-wonders.jpg
 tags: I-didnt-die
-adventurers: Kenneth, Kuma, Bonecrusher, Lands, Gino
+adventurers: Gino, Barbara, Alannah, Bron, Lidia?
 ---
 
-An Ogre! That's what **Aly** attracted the attention of. A big, nasty, smelly, and appreciative of harmonic and warm baritone voice (as they showed later on) Ogre! We tried everything to deal with it: **Alannah** tried to scare the hell out of it with magic, which seemed to just piss off its friend; puncture its eyes with sharp arrows, but *clumsy* **Bronn** wreck his bow in the process; stopping it through brute force, but **Barbara** fell getting severely injured... if it wasn't for me and my glorious healing eunuch voice, he would be dammed! We dealt with the poor beast, causing its partner to flee in horror; which makes me wonder who is the actual beast of this tale...
+Following the not-that-trustworthy word of *Galarath* (the half-gone hermit druid from Athenas), we managed to find the entrance to what should bring us to the depth of Alwayswinter.
 
-The humongous room which continued the path was as astonishing as hallowed. Its walls were all covered in stories from an old Elvish civilization fighting against what they called *The Serpent*, which might be related to the similar-name cult from our time. We strolled following the tracks of the Ogre, while admiring the magnificent views. It really reminded me of the tales describing the land of Moria...
+With **Barbara the Brave** leading the path, we walked down the long (and not very interesting) corridors covered in mud and dirt, until we started to notice a distant sound of rock against rock. After a longer examination, we realized that the mud was covering gorgeous aery walls made of what it seems to be Glasmere glass beads.
 
-Crowning the room was a huge and ominous metal door with no clear way to open it, and I spent a reasonable amount of time studying and caressing it. Luckily, my amazing sense of adventure lead me to a little library where I could find the secret of its mechanism: it requires the tooth of a specific dragon to open itself, leading us to what is labeled as "The Great Forge". And the dragon seems to be on its way to meet us!
+The long corridor ended on a balcony overseeing a vast bottomless well, with staircases going down the sides. One of them was even hidden behind a very clumsy illusion! I mean, even our least arcane-attuned member was able to spot the rouse... but if someone put the effort of hiding it, it must be for a reason!
 
-What were the rest doing while I solved the mystery, you ask? Well, not having enough Ogre fun, they decided to chase and taunt the poor creature. It was still covered in its partner's blood! I couldn't pay much attention, but it seemed the engaged on a very acrobatic dance together, which caught **Bron**'s attention. He has riding **Lidia** in such a rush that they couldn't stop, causing havoc on the impact and bringing the poor Ogre closer to its beloved partner. But they made such a mess in the process!
+Down the stairs we found an entrance into the mountain: another long alley made of that aery and gorgeous material. But our guts warned us that there was something fishy with the situation, so **Aly** decided to use some illusions to lure whatever was hiding in the dark... and there were some of those nasty little goblins!
 
-That's why I had to step in the room to check what was going on and, while I was busy solving the mystery of the door and saving the world and all that jazz I misstepped into a trap making me fall into a very sticky and dark abyss which, by the sounds of it, seems to be shared with something else...
+Luckily we over-smarted those brainless creatures having **Barbara** waiting on the ceiling while the decoy brought them to our hands (and swords). It looked like an easy job till certain someone decided to conjure the spirits of the arcane with her mighty hands but forgot to pay enough attention to actually aim our foes sending the projectiles way pass the goblins and landing on a far away statue. Which, by the game, seems to be actually animated. And not very happy with such a rough wake up...
 
-Barbara's Fun fact of the day:
-> Acolytes from The Serpent are not really well regarded on her tribe; as they hide behind the religion instead of addressing their weaknesses. 
+Quote of the day: 
+> "I really like Lidia. She has a very nice mass". 
 
 Remarks:
 
-* People don't know how to fight an Ogre, but luckily Gino is here to heal your wounds. 
-* The door seems very big and we shouldn't try to open it by force (looking at you, Ogre killer).
-* We found a nice bag of gems hidden in the armory, and **Alannah** volunteer as its custodian. Luckily we all trust her, am I right?
-* It seems to require a specific's dragon tooth to be open.
-* **Barbara** broke my heart and crushed my dreams. I decided to jump down to oblivion. 
-* I don't like spiders.
+* Apparently there is a way to get deep down the rabbit's hole!
+* It was all very mystical and magical and **DO NOT USE MAGIC ON THE WALLS**.
+* Barbara knows how to solve a plank.
+* We weren't alone... nasty goblins were waiting for us!
+* **DO NOT USE MAGIC TO ATTACK THE BEASTS**. Or, if you do, at least learn how to aim.
 
 (WTF were you expecting? I'm a singer, not a writer, JESUS!)
+
