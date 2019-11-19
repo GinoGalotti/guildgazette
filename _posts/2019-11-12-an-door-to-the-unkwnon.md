@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A door to the unknown
+title: A door into the unknown
 bigimg: /img/cave-of-wonders.jpg
 share-img: https://ginogalotti.github.io/bardstale/img/cave-of-wonders.jpg
 tags: I-didnt-die
