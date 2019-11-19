@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A door to the unknown
+title: A stroll with an Ogre
 bigimg: /img/moria.png
-share-img: https://ginogalotti.github.io/bardstale/img/moria.png
+share-img: https://ginogalotti.github.io/bardstale/img/moria
 tags: I-didnt-die
 adventurers: Kenneth, Kuma, Bonecrusher, Lands, Gino
 ---
