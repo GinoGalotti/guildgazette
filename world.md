@@ -14,6 +14,12 @@ A summary of all the relevant places and history we've visited
 **Mines of Glashmere**: Source of those glorious glass beads praised by her astonishing looks and her mysterious magical qualities.
 **Athenas**: Home of the posh, fancy and irritating society elves. They are just too full of themselves. 
 **Vilborimm**: Ruins of a previous Elvish civilisation underneath Alwayswinter.
+**Nemphyr**: Big city from Skagnes, home of a nice market with things. I was busy trying to stay alive and learning about a majestic dragon when I was there, so don't expect much detail!
+
+## Politics
+
+**Sveringe**: Our homeland, where Alwayswinter is contained. Predominately human, because we are everywhere, you know.
+**Skagnes**: Bordering Sveringe from the south, this nation of pragmatic traders is the home of the exotic good and spicy fantasies that Sveringe's aristrocracy craves. Their unique view on fashion and life is both charming and challenging; but they know *The Truth*: Saffron is meant to be on Rice, not on pastries. These Southerns and their unexpected wisdom...
 
 ## Societies
 

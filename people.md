@@ -9,11 +9,16 @@ The code I used to cipher my notes is lost, so I could only recover little glimp
 
 ## The nice ones
 
-**Marilyn (Innkeeper)**: She makes mean cinnamon rolls. I can't say no to her.
+**Tina (Innkeeper)**: She makes mean cinnamon rolls. I can't say no to her. She's the owner of Happy Rooster (Alwayswinter).
+**Sam (Inkeeper)**: He's in charge of the Grim Griffin, and very appreciative of the good arts and beautiful voices. 5/5 stars boar.
+**Freja**: Legendary wizard from Alwayswinter, seems to know about Bilborin!
+**Vardin**: Pokemon-trainer wannabe who is obssesed with dragons, currently living in Nemphyr. Whatever floats your boat, mate!
 
 ## The bad ones
 
 With my charm, there is no one who would hold a grudge to me.
+
+**Dillsdranamt**: Big nasty dragon that seems to be keeping a powerful artifact. And, even more important, it destroyed Freja's home!
 
 ## The ugly ones
 
