@@ -1,23 +1,21 @@
 ---
 layout: post
-title: A mosquito situation
-bigimg: /img/mosquito.jpg
-share-img: https://ginogalotti.github.io/guildgazette/img/mosquito
-tags: I-didn't-die
-adventurers: Palaphäl, Ezekiel, Leoric, Boo
+title: A deadly love
+bigimg: /img/lighthouse.jpg
+share-img: https://ginogalotti.github.io/guildgazette/img/lighthouse
+tags: adventure-summary
+adventurers: Boo, Palaphäl, Becky, Leoric
 ---
 
-The adventure guild pleased with your efforts (although the reward is yet to be defined), they have also provided some developments that Ginta the barber shared about the situation in Shimmerford. Find attached the report she sent:
+The Adventure's Guild is pleased with your efforts, they have also provided some developments that Frederik (the innkeeper) shared about the situation in Salty Waters. Find attached the report he sent:
 
-* The adventurers came at a moment of great need, the mosquito situation was unbearable!
-* They meet Haru (the hunter), an scholar who focuses on local legends and folklore, although her true motives seemed to be following the trail of her disappeared friend Lastrade! She seemed to have been captured by the Mitflits when investigating the situation, but there's no trace of her after she escaped the cave..
-* They visited Mondha (the witness), whose attendant seemed very distressed after the adventurers' visit; but Ms Lyons opened about her experience with the mosquito witch.
-When the carriage events happened, they managed to keep everyone alive! I mean, everyone but the poor horses.
-* They went out in search of an answer, finding a settlement of Mitflits (fey creatures) who were posing as the mosquito witch and causing all these havoc! 
-* When the priest managed to talk to them, we learned that they set camp over a year ago, and the influx of visitors due to the festivals caused them problems as people started to harass them. That's when Gwibble (their leader) has the idea of taking the role of the mosquito witch. Now they are truly scared of the Mosquito Witch, thinking that she's punishing them for the rouse...
-* The mosquito situation is getting better by the day now that Mitflits are not controlling them, and many are returning back to town... it's amazing to see it busy again! Everyone seems a little bit cautious about mentioning the Mosquito Witch nowadays, tho...
-* Searching the area, we found the cadaver of Andor Oronce (another adventurer), who seemed to be infected by a magical lung disease... Mitflits don't seem to be the cause of it, but there seems to be no other case that this.
-Quintus Chevunier (the Prophet) seems to have disappear from town after the interaction with the adventurers. What an odd fellow...
+* The adventurers arrived in the calm and welcoming town of Salty Waters.
+* They heard the story of Lord Pitrokus, the man who took the Lighthouse. He appeared three weeks ago and lured the lighthouser to open the door... and kicked him out!
+* They went to visit O'Sheet (the lighthouse keeper), and learned that the town tried to take the building again with diplomacy and by force, failing in both occasions. It was time to try, but this time _for real_!
+* On the way, the learned that the lighthouse was emanating a magical green light before stopping to work, and **Boo** recognized it as a sign of Necromancy...
+* Some town folks shared the story of a beautiful wedding that happened months ago on said lighthouse... and it seems that Lord Pitrokus was the Groom!!
+* At the location, they found undead corpses defending the entrance, so the adventurers _rightfully_ decided to end their suffering.
+* Up the tower, they found Lady Vanilla as an undying creature! It was resurrected by Lord Pitrokus, but as always with Necromancy, it didn't end up as intended. She was _carefully_ dealt with, and the glorious town of Salty Waters got its Lighthouse back!
+* Since then, more and more people seem to come to the town curious about the tales of the adventurous group (which didn't leave any name) and stories about the undying love and a haunted Lighthouse. Luckily one of them stayed to report and helped us all understanding the situation. I can't be grateful enough for **Becky**, what a magnificent being...
 
-
-With all these, I want to endorse how efficient and helpful this group of adventurers were, although they left no name! On the other hand, I want to inform that their manners were quite aggressive and caused some despair on the townfolk. I would still grade their intervention as B, so you could do decide an appropriate compensation.
+With all these, I want to endorse how efficient and helpful this group of adventurers were, although they left no name! On the other hand, I want to inform that their manners were quite aggressive and caused some despair in the townfolk. I would still grade their intervention as B-, so you could do decide appropriate compensation. 
