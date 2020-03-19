@@ -12,7 +12,7 @@ The adventure guild pleased with your efforts, they have also provided some deve
 * The adventurers arrived to the calm and welcoming town of Salty Waters.
 * They heard the story of Lord Pitrokus, the man who took the Lighthouse. He appareared three weeks ago and lured the lighthouser to open the door... and kicked him out!
 * They went to visit O'Sheet (the lighthouse keeper), and learned that the town tried to take the building again with diplomacy and by force, failing in both ocassions. It was time to try, but this time _for real_!
-* On the way, the learned that the lighthouse was emanating a magical green light before stopping to work, and **Boo** recognised it as a sign of Necromancy...
+* On the way, the learned that the lighthouse was emanating a magical green light before stopping to work, and **Palaphäl** recognised it as a sign of Necromancy...
 * Some town folks shared the story of a beautiful wedding that happened months ago on said lighthouse... and it seems that Lord Pitrokus was the Groom!!
 * At the location, they found undead corpses defending the entrance, so the adventurers _rightfully_ decided to end their suffering.
 * Up the tower, they found Lady Vanilla as an undying creature! It was resurrected by Lord Pitrokus, but as always with Necromancy, it didn't end up as intended. She was _carefully_ dealt with, and the glorious town of Salty Waters got its Lighthouse back!
