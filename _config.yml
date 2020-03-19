@@ -8,17 +8,17 @@
 # baseurl: "/impro"
 
 # If you are building a GitHub project page then use these settings:
-url: "http://ginogalotti.github.io/bardstale"
-baseurl: "/bardstale"
+url: "http://ginogalotti.github.io/guildgazette"
+baseurl: "/guildgazette"
 
 github:
-  repo: https://github.com/ginogalotti/bardstale
+  repo: https://github.com/ginogalotti/guildgazette
   feedback: https://github.com/ginogalotti/feedback
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bard's Tales
+title: Guild Gazette
 
 # Short description of your site
 description: Tales for an adventuruous mind
@@ -67,9 +67,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/bardstale/img/bg/stardust.png"
-footer-img: "/bardstale/img/bg/stardust.png"
-page-img: "/bardstale/img/bg/ep_naturalwhite.png"
+navbar-img: "/guildgazette/img/bg/stardust.png"
+footer-img: "/guildgazette/img/bg/stardust.png"
+page-img: "/guildgazette/img/bg/ep_naturalwhite.png"
 
 # --- Footer options --- #
 
@@ -135,7 +135,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "bards-journal"
+disqus: "guild-gazette"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""

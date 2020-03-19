@@ -5,11 +5,10 @@ subtitle: The heart of the party
 bigimg: /img/bardiachi.jpg
 ---
 
-My name is Gino Montoya. You killed my father. These are the reasons why I am keeping a journal:
+My name is Gino Montoya. You killed my father. I keep a tale of different Guild adventurers because one day I'll be rewarded for that. Why I am the best one for the job:
 
 - Words are my thing, and with words I can hurt you.
-- I can pretend to be anything. Even a mariachi.
-- I am the only one of the adventurers who can write.
+- I am the only one of the few who can write.
 - I have a pan flute. And I'm not shy to use it. 
 
 What else do you need?

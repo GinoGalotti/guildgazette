@@ -5,26 +5,18 @@ subtitle: Or, at least, that we have encountered.
 bigimg: /img/deadoralive.jpg
 ---
 
-The code I used to cipher my notes is lost, so I could only recover little glimpses of them. I will upload these notes as soon as I get them.
+The short notes that we've been keeping on the people we've met.
 
 ## The nice ones
 
-**Tina (Innkeeper)**: She makes mean cinnamon rolls. I can't say no to her. She's the owner of Happy Rooster (Alwayswinter).
+**The Three Troubadours**: After being miracously saved from a sure death, these wordy fellows were impressed by the doings of their saviours on the town of Shimmerford. They seem to share that tale often and loudly, so more and more people seem to have heard the story...
 
-**Sam (Inkeeper)**: He's in charge of the Grim Griffin, and very appreciative of the good arts and beautiful voices. 5/5 stars boar.
+**O'Sheet**: He lost his lighthouse to the hands of a mad man, but some nice folks took it back. He doesn't feel at ease anymore on that haunted place, but the townfolk seems to have jumped on the opportunity to find other ways to bring cash... and he's _very_ grateful for that!
 
-**Freja**: Legendary wizard from Alwayswinter, seems to know about Bilborin!
+**Miss Tenesee**: She decided to write a novel about that romantic tale of a necromancer in love! She's been trying to get in touch with the adventurers involved, and also have very big plans on how to bring folks to the enchanted lighthouse and make a nice business our of it...
 
-**Vardin**: Pokemon-trainer wannabe who is obssesed with dragons, currently living in Nemphyr. Whatever floats your boat, mate!
+**Hary and Peaches**: They were saved by the adventurers while they were trying to meet Lastrade. She doesn't forget herself for being so reckless, and is ashamed of not showing more gratitude to her saviours.
 
 ## The bad ones
 
-With my charm, there is no one who would hold a grudge to me.
-
-**Dillsdranamt**: Big nasty dragon that seems to be keeping a powerful artifact. And, even more important, it destroyed Freja's home!
-
-## The ugly ones
-
-A list of those who would never have minstrels singing about them
-
-**Lidia**: Just look at her. No heroic tale can be told about one such as her.
+None seems to hold a grunge yet.
