@@ -2,7 +2,7 @@
 layout: page
 title: This is me
 subtitle: The heart of the party
-bigimg: /img/bardiachi.jpg
+bigimg: /img/heartparty.jpg
 ---
 
 My name is Gino Montoya. You killed my father. I keep a tale of different Guild adventurers because one day I'll be rewarded for that. Why I am the best one for the job:
