@@ -6,13 +6,13 @@ share-img: https://ginogalotti.github.io/guildgazette/img/notes
 tags: news-report
 ---
 
-_A lot has happened in the last 24 hours!_ We write this here as the beginning of our report and asking for some guidelines!
+_A lot has happened in the last 24 hours!_ This is the beginning of our report!
 
 We barely Arrived at the dusty and sandy **Brighthaven** and there was that immense and majestic golden elephant _staring at us! So big. And cold. And gold. But we had a mission to do: Get some contacts so the Guild can send new recruits and make tons of money with this situation! So we went to The Sunbathing Lizard (the local tavern), _nice local folks_ always have the _best_ answers!
 
 **Leoric** found the _poison_ locals were drinking (_what a stench!_), and we learned that the **Tea Travelers** are providing the liquor. Well, we learned about the city's weird situation. This settlement _in the middle of knowhere_ is Emperor Gladiu's plan to expand his frontiers. The **Tea Travelers** (seems to be doing the better business), **Gold and Glory** and **Green Owls** companies are sponsoring the efforts and have a deal with the emperor, having a council where each one has a vote. That exclusive deal is why other corporations are not allowed!
 
-On our way to _the only clean inn_, we couldn't help but stop by the _shiny and gorgeous elephant_. That's when everything got bonkers! We learned it's the headquarters of **Tea Travelers**, and we saw how someone had opened the wall with magic and was just walking out while setting everything on fire. Crazy, right? That's why **Boo** just _jumped in!_ There wasn't much time to search for things on that _hell_, so **Boo** just managed to grab a missive and _that haunted crossbow_; as well as a a little piece of gold... _would be a shame to leave it to burn!_
+On our way to _the only clean inn_, we couldn't help but stop by the _shiny and gorgeous elephant_. That's when everything got bonkers! We learned it's the headquarters of **Tea Travelers**, and we saw how someone had opened the wall with magic and was just walking out while setting everything on fire. Crazy, right? That's why **Boo** just _jumped in!_ There wasn't much time to search for things on that _hell_, so **Boo** just managed to grab a missive and _that haunted crossbow_; as well as a little piece of gold... _would be a shame to leave it to burn!_
 
 In the meantime, **Leoric** and **Ezekiel** ran behind the hooded figure, but they only managed to see a little bit of his face and get a piece of his cloak! They faced a group of Orc mercenaries (they had their _orcishness_ magically concealed!!) which seemed to be working for that hooded man, so we took one of them with us!
 
