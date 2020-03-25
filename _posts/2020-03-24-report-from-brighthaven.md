@@ -26,9 +26,7 @@ We found a missive that looked important. It's sent to **Lord M'Kranitos**, whic
 
 ## The marked crossbow
 
--- Note from Boo ---
-
-This... symbol... it brings back _the few memories_ I have of my camp before it was attacked. I think. I haven't seen it again, I can't recall seeing this sigil... but, when I looked at it, I could feel the fire around me. I could smell the smoke and the burning flesh. I could hear the yells and cries from my family... something in my head _just yells when I look at it_.
+-- Note from Boo. It's impossible to read ---
 
 ## The note in the pocket
 
