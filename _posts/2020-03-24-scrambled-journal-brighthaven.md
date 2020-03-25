@@ -18,20 +18,20 @@ In the meantime, **Leoric** and **Ezekiel** were running behind the hooded figur
 
 They had to face a group of Orc mercenaries that seemed to be working for that suspicious hooded guy. We bravely defeated them and took a hostage for interrogation (she seemed the boss).
 
-Questioning **Marka**, the Orc we took with us, wasn’t easy, but we could manage to get some info from her/him/it… whatever. We learned that the band of Orcs is led by someone named **Harkur**, but Marka didn’t know any specifics about the one _paying for the job (suspicioushoodedguy)_. They seem to be working for him for a while now. We managed to convince her to just go back and, as soon as she knows about the next job, she’ll inform us so we can go get some information on **Harkur**. Hope this can work… otherwise… camp is just outside of the town and we could pay a visit
+Questioning **Marka** - the Orc - wasn’t easy, but we managed to get some info from her/him/it… whatever. We learned that the gang of Orcs is led by someone named **Harkur**, but Marka didn’t know any specifics about the one _paying for the job (suspicioushoodedguy)_. They already took a few jobs from him, she said. We managed to convince her to just go back and, as soon as they are hired for the next job, inform us promptly, so we can go get some information on **Harkur**. Hope this can work… otherwise… camp is just outside of the town and we could pay a visit (angry Boo is not a good Boo). 
 
 ## **The lost missive**
 
-We found a missive that looked important. It’s sent to **Lord M’Kranitos**, which we think is an emperor _on the other side of the dessert_, and it seems to beg for some help and offer the position on the city. It’s signed by **Murdha Makag**… if only we knew _what’s all this!_
+We found a missive that looked important. It’s directed to **Lord M’Kranitos**, who we think is an emperor _on the other side of the desert_. In the letter a certain **Murdha Makag**seems to be begging for help and offering a way into the city.… this needs some further investigation…
 
 ## **The marked crossbow**
 
-This… symbol… it brings back _the few memories_ I have of my camp before it was attacked. I think. I haven’t seen it again, I can’t recall seeing this sigil… but, when I looked at it, I could feel the fire around me. I could smell the smoke and the burning flesh. I could hear the yells and cries from my family… something in my head _just yells when I look at it_.
+This symbol… it brings back _very old memories, the few I still_ have of my camp before it was attacked. I am not sure... It’s been a while and I might be wrong... I can’t recall seeing this sigil but, when I first looked at it, I could feel the fire around me, I could smell the smoke and the burning flesh. I could hear the yells and cries from my peers, my friends, my family... something in my head _just yells when I look at it_.  I don’t want to think about those memories.
 
 ## **The note in the pocket**
 
-**Leoric** snatched a piece of the hooded man’s cloak, finding a little scribbling on his pocket. It’s written in Orcish, but after some investigation, we manage to roughly translate it.
+**Leoric** snatched a piece of the hooded man’s cloak, finding a little scribbling on his pocket. It’s written in Orcish, but after some investigation we manage to roughly translate it:
 
-_The horses are planning on setting everything on fire, it'll happen on the following week. They seem to want to get rid of something. The leaders are very scared. Harkur_
+_The horses are planning on setting everything on fire, it’ll happen in the following week. They seem to want to get rid of something. The leaders are very scared. Harkur_
 
--- Boo's STATUS report to the Guild --
+– Boo’s STATUS report to the Guild –
