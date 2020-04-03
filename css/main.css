@@ -17,9 +17,9 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
-blog-postfala {
-  font-family: 'Satisfy';
-  font-size: 18px;
+body-fala {
+  font-family: 'Homemade Apple';
+  font-size: 20px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
