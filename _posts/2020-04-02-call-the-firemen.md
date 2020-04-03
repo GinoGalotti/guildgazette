@@ -6,6 +6,9 @@ share-img: https://ginogalotti.github.io/guildgazette/img/firelove
 tags: adventure-summary
 adventurers: Boo, Falaphäl, Amos, Ezekiel
 ---
+
+Original document [here](https://ginogalotti.github.io/guildgazette/img/Fala_report.pages) 
+
 ## Thursday - 10:30
 Dear diary,  
 How are you today?  
