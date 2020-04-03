@@ -3,6 +3,14 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@font-face {
+  font-family: 'trattatello';
+  src: url('https://ginogalotti.github.io/guildgazette/fonts/tratatello.woff2') format('woff2'),
+       url('https://ginogalotti.github.io/guildgazette/fonts/tratatello.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+};
 
 /* --- General --- */
 
@@ -18,7 +26,7 @@ body {
   {% endif %}
 }
 body-fala {
-  font-family: 'Homemade Apple';
+  font-family: 'trattatello';
   font-size: 20px;
   color: #404040;
   position: relative;
