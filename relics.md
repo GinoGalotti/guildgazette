@@ -2,7 +2,7 @@
 layout: page
 title: The relics
 subtitle: Powerful artifacts
-bigimg: /img/party-table.jpg
+bigimg: /img/loot.jpg
 ---
 
 Relics are powerful artifacts connected to one of more planes. Each one of them resonates with a small group of souls which stories connect to them in some level.  
