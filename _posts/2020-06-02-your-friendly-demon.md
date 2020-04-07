@@ -1,7 +1,7 @@
 ---
 layout: post-fala
 title: Your friendly neighbour and demon
-bigimg: /img/satanism.jpeg
+bigimg: /img/satanism.jpg
 share-img: https://ginogalotti.github.io/guildgazette/img/satanism
 tags: adventure-summary
 adventurers: Boo, Falaphäl, Amos, Ezekiel
