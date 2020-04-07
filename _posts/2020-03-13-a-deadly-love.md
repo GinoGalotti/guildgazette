@@ -4,7 +4,7 @@ title: A deadly love
 bigimg: /img/lighthouse.jpeg
 share-img: https://ginogalotti.github.io/guildgazette/img/lighthouse
 tags: adventure-summary
-adventurers: Boo, Palaphäl, Becky, Leoric
+adventurers: Boo, Falaphäl, Becky, Leoric
 ---
 
 The adventure guild pleased with your efforts, they have also provided some developments that Frederik (the inkeeper) shared about the situation in Salty Waters. Find attached the report he sent:
