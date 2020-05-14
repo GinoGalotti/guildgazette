@@ -4,7 +4,7 @@ title: A mosquito situation
 bigimg: /img/mosquito.jpg
 share-img: https://ginogalotti.github.io/guildgazette/img/mosquito
 tags: adventure-summary
-adventurers: Palaphäl, Ezekiel, Leoric, Boo
+adventurers: Falaphäl, Ezekiel, Leoric, Boo
 ---
 
 The Adventure's Guild is pleased with your efforts, they have also provided some developments that Ginta the barber shared about the situation in Shimmerford. Find attached the report she sent:

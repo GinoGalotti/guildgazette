@@ -3,7 +3,8 @@ layout: post
 title: Scribbled notes from Brighthaven
 bigimg: /img/notes.jpg
 share-img: https://ginogalotti.github.io/guildgazette/img/notes
-tags: news-report
+tags: adventure-summary
+adventurers: Boo, Ezekiel, Leoric
 ---
 
 We barely arrived at the dusty and sandy **Brighthaven** - what a name choice, I say! - welcomed by a huge golden elephant… these people really like to show off! I touched it, it was cold. It didn’t taste good. What a waste of gold!
