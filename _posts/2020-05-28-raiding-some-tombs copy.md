@@ -1,0 +1,20 @@
+---
+layout: post
+title: The Goblin Rises
+bigimg: /img/boobane.jpg
+share-img: https://ginogalotti.github.io/guildgazette/img/boobane
+tags: adventure-summary
+adventurers: Boo, Falaphäl, Leoric, Istarlin, Ezekiel
+---
+
+We don't have much time to waste, but I've been assigned to keep record of what happened.
+
+
+* We started visitting the Orc's camp next to Brighthaven following some dissapearances. We talked with Tenzun about her gone partner.
+* **Morgoth** wasn't very helpful as he just wanted to seek refuge in the city, but **Boo** put him on this place, winning the respect of the rest.
+* **Dalcin**, the group Shaman, explained to us that there was nothing he could do to stop this magic. People just left without giving any reason. 
+* Following their tracks we found **M'kart**, a ghost city that lost most of its inhabitants for the same reason. We decided to use one of this walkers as bait.
+* After following them for hours, a portal opened! We couldn't get in fast enough, although **Istarlin** bravely jumped inside.
+* We went back to **M'kart** to find more of the walkers, and get a message to the Conclave asking for help.
+
+Marka signing off. 
