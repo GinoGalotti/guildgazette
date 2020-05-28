@@ -18,3 +18,6 @@ With regards to the cultists of the Bright Burning Sun, we received a lead conce
 The ruins were pervaded with puzzles, curses, and other treacherous contrivances. Most were hardly an inconvenience f'r our group: childish riddles and silly machines, but, hrm, I still cannot pronounce the s without involuntarily wincing. And I must admit *Istarlin*'s proved his mettle after our headbutting match and then fighting doppelgängers of ourselves. Moreover, we ran into a white-livered necromancer, a member of the demonologist cult, who employed poisons and commanded the undead. We dealt with him despite his trickery and procured one of the coveted *Stones of Jordan*.
 
 This was a most fruitful expedition and we expect further missives from The Guild. In the meantime, we continue to straighten out the.. details small of the tavern.
+
+-- 
+Ezekiel
