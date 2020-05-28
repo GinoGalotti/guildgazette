@@ -6,9 +6,6 @@ share-img: https://ginogalotti.github.io/guildgazette/img/bar
 tags: adventure-summary
 adventurers: Boo, Ezekiel, Istarlin
 ---
-
-Of Taverns And Ruins
-
 After the events involving the duplicitous Hand of the Emperor (Zordrak), we've achieved a milestone in our mission. F'r amidst the tension amongst the companies and now the mistrust toward imperial envoys have we secured good faith in Brighthaven as intercessors. I've started the paperwork to establish an institution of sorts to carry out contracts in the region. A tavern front seems most sensible with Leoric's expertise in liquors, Boo's musical... abilities, Falaphäl's... charisma, well, the project is practical. We shall offer our services and receive compensation in the way of association membership fees.
 
 As the first order of business, we intend to bolster our ranks. The help sent thus far by The Guild hasn't been constant, so *Leoric*'s vouched f'r a cousin of his. *Istarlin* is the name of the rather brawny fellow. He appears the type to not back down from a challenge. This is great f'r we need all the muscle and brain we can muster, more muscle than brain in this case.
